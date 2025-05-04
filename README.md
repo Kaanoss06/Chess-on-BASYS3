@@ -1,2 +1,2 @@
 # Chess-on-BASYS3
-A chess game run on BASYS3 FPGA board by plugging the VGA output of the FPGA to a monitor and the USB port to a compatible mouse
+Instructions on how to play are on top_main.vhd
